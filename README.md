@@ -92,7 +92,7 @@ AgroSmart’s key advantage is its low hardware cost and dedicated **localized f
 
 ## 👥 Team (CODE-TIVATORS)
 
-* **[Bhavin Umatiya](https://github.com/Bhavin-umatiya)** - GitHub
+* **[Bhavin Umatiya](https://github.com/Bhavin-umatiya)** 
 * **Nishant Malkani**
 * **Anubhav Bhavsar**
 * **Suhani Chaplot**
